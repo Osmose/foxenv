@@ -3,6 +3,9 @@
 Foxenv is a tool for managing multiple isolated installations of
 Firefox. It is inspired by tools like [pyenv][] and [nvm][].
 
+[pyenv]: https://github.com/yyuu/pyenv
+[nvm]: https://github.com/creationix/nvm
+
 ## Usage
 
 ```sh
