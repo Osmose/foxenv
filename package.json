@@ -1,0 +1,22 @@
+{
+  "name": "foxenv",
+  "version": "0.1.0",
+  "description": "Tool for managing multiple isolated installations of Firefox.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Osmose/foxenv.git"
+  },
+  "keywords": [
+    "firefox"
+  ],
+  "author": "Michael Kelly <me@mkelly.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Osmose/foxenv/issues"
+  },
+  "homepage": "https://github.com/Osmose/foxenv",
+  "bin": "./lib/cli/index.js",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
